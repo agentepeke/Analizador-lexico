@@ -1,0 +1,5 @@
+C:\Users\licen\Desktop\AnalizadorFMLC\x64\Debug\Analizador.vcxproj.AssemblyReference.cache
+C:\Users\licen\Desktop\AnalizadorFMLC\x64\Debug\Analizador.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\licen\Desktop\AnalizadorFMLC\x64\Debug\Analizador.visualizador.resources
+C:\Users\licen\Desktop\AnalizadorFMLC\x64\Debug\Analizador.vcxproj.GenerateResource.cache
+C:\Users\licen\Desktop\AnalizadorFMLC\x64\Debug\Analizador.exe

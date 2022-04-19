@@ -1,0 +1,241 @@
+﻿'Analizador.exe' (Win32): 'C:\Users\licen\Desktop\AnalizadorFMLC\x64\Debug\Analizador.exe' cargado. Símbolos cargados.
+'Analizador.exe' (Win32): 'C:\Windows\System32\ntdll.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\mscoree.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\kernel32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\KernelBase.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\ucrtbased.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\vcruntime140d.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\msvcp140d.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\vcruntime140_1d.dll' cargado. 
+El subproceso 0xaf0 terminó con código 0 (0x0).
+'Analizador.exe' (Win32): 'C:\Windows\System32\advapi32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\msvcrt.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\sechost.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\rpcrt4.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscoreei.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\shlwapi.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\kernel.appcore.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\version.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clr.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\user32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\vcruntime140_clr0400.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\ucrtbase_clr0400.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\win32u.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\gdi32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\gdi32full.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\msvcp_win.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\ucrtbase.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\imm32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\combase.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\combase.dll' descargado
+'Analizador.exe' (Win32): 'C:\Windows\assembly\NativeImages_v4.0.30319_64\mscorlib\c5986fd5d6139abd4222b5cb6a32cadf\mscorlib.ni.dll' cargado. 
+'Analizador.exe' (CLR v4.0.30319: DefaultDomain): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Analizador.exe' (Win32): 'C:\Windows\System32\ole32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\combase.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\bcryptprimitives.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\uxtheme.dll' cargado. 
+'Analizador.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Users\licen\Desktop\AnalizadorFMLC\x64\Debug\Analizador.exe' cargado. Símbolos cargados.
+'Analizador.exe' (Win32): 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clrjit.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\diasymreader.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System\6aaf038fc5a894ddf3cbce94407fb772\System.ni.dll' cargado. 
+'Analizador.exe' (CLR v4.0.30319: DefaultDomain): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Analizador.exe' (Win32): 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Drawing\7b4834f232ee0b2acdbb224f8126d451\System.Drawing.ni.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Windows.Forms\21880015ae86d10263ebb0b6b0b96141\System.Windows.Forms.ni.dll' cargado. 
+'Analizador.exe' (CLR v4.0.30319: Analizador.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Analizador.exe' (CLR v4.0.30319: Analizador.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Analizador.exe' (Win32): 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Core\e950876872d82f53f34ddb39c91b2d04\System.Core.ni.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Configuration\b975269524a5b5c4024312664f699596\System.Configuration.ni.dll' cargado. 
+'Analizador.exe' (CLR v4.0.30319: Analizador.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Analizador.exe' (CLR v4.0.30319: Analizador.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Analizador.exe' (Win32): 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Xml\4b4c18876d4db2b65562def74ec6630f\System.Xml.ni.dll' cargado. 
+'Analizador.exe' (CLR v4.0.30319: Analizador.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Analizador.exe' (Win32): 'C:\Windows\System32\shell32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\windows.storage.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\wldp.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\SHCore.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\profapi.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\bcrypt.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\cryptsp.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\rsaenh.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\cryptbase.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_792d1c772443f647\comctl32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.1645_none_91a2a668cc89980b\GdiPlus.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\msctf.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\oleaut32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Windows.Forms.resources\v4.0_4.0.0.0_es_b77a5c561934e089\System.Windows.Forms.resources.dll' cargado. El módulo se compiló sin símbolos.
+'Analizador.exe' (Win32): 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Windows.Forms.resources\v4.0_4.0.0.0_es_b77a5c561934e089\System.Windows.Forms.resources.dll' cargado. El módulo se compiló sin símbolos.
+'Analizador.exe' (Win32): 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Windows.Forms.resources\v4.0_4.0.0.0_es_b77a5c561934e089\System.Windows.Forms.resources.dll' descargado
+'Analizador.exe' (CLR v4.0.30319: Analizador.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms.resources\v4.0_4.0.0.0_es_b77a5c561934e089\System.Windows.Forms.resources.dll' cargado. El módulo se compiló sin símbolos.
+'Analizador.exe' (Win32): 'C:\Windows\System32\DWrite.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\TextShaping.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\comctl32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\TextInputFramework.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\CoreMessaging.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\CoreUIComponents.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\ws2_32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\ntmarta.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\WinTypes.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\WinTypes.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\WinTypes.dll' descargado
+'Analizador.exe' (Win32): 'C:\Windows\System32\urlmon.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\netutils.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\iertutil.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\srvcli.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\sspicli.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\propsys.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\clbcatq.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\comdlg32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\dui70.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\duser.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\dwmapi.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\Common Files\microsoft shared\ink\tiptsf.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\edputil.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\ExplorerFrame.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\WindowsCodecs.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\thumbcache.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\policymanager.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\msvcp110_win.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\DataExchange.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\dcomp.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\d3d11.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\dxgi.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\twinapi.appcore.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\Windows.UI.FileExplorer.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\oleacc.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\cfgmgr32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\Windows.FileExplorer.Common.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\xmllite.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\UIAutomationCore.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\sxs.dll' cargado. 
+mincore\com\oleaut32\dispatch\ups.cpp(2122)\OLEAUT32.dll!00007FFC2AF59DD6: (caller: 00007FFC2AF591E9) ReturnHr(1) tid(2d6c) 8002801D Biblioteca no registrada.
+'Analizador.exe' (Win32): 'C:\Windows\System32\atlthunk.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\StructuredQuery.dll' cargado. 
+El subproceso 0x48ec terminó con código 0 (0x0).
+'Analizador.exe' (Win32): 'C:\Windows\System32\Windows.Storage.Search.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\Windows.StateRepositoryPS.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\IconCodecService.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\cldapi.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\fltLib.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\mpr.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\drprov.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\winsta.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\ntlanman.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\davclnt.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\davhlpr.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\wkscli.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\cscapi.dll' cargado. 
+Excepción producida en 0x00007FFC2A1F4F69 (KernelBase.dll) en Analizador.exe: 0x000006BA: El servidor RPC no está disponible.
+'Analizador.exe' (Win32): 'C:\Windows\System32\coml2.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\linkinfo.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\twinapi.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\apphelp.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvNs.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\psapi.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\crypt32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\secur32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\wintrust.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\wininet.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\setupapi.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\winhttp.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\msimg32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\winmm.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\winspool.drv' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\msasn1.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\Common Files\McAfee\Platform\McRTMui.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\userenv.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\wtsapi32.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\Common Files\McAfee\Platform\LangSel.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\ntshrui.dll' cargado. 
+onecore\com\combase\dcomrem\resolver.cxx(2299)\combase.dll!00007FFC2A731BED: (caller: 00007FFC2A734ACE) ReturnHr(1) tid(4ca4) 80040154 Clase no registrada
+onecore\com\combase\dcomrem\resolver.cxx(2507)\combase.dll!00007FFC2A734AF6: (caller: 00007FFC2A731585) ReturnHr(2) tid(4ca4) 80040154 Clase no registrada
+'Analizador.exe' (Win32): 'C:\Windows\System32\msxml3.dll' cargado. 
+onecore\com\combase\dcomrem\resolver.cxx(2299)\combase.dll!00007FFC2A731BED: (caller: 00007FFC2A734ACE) ReturnHr(3) tid(4ca4) 80040154 Clase no registrada
+onecore\com\combase\dcomrem\resolver.cxx(2507)\combase.dll!00007FFC2A734AF6: (caller: 00007FFC2A731585) ReturnHr(4) tid(4ca4) 80040154 Clase no registrada
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McOemRes.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McOemRes.dll' descargado
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McOemRes.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MSC\oemui.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MSC\oemui.dll' descargado
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MSC\oemui.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\MpvRes.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\MpvRes.dll' descargado
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\MpvRes.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbePwd.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbeQa.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbePwd.dll' descargado
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbeQa.dll' descargado
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbePwd.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbeQa.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbePwd.dll' descargado
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbeQa.dll' descargado
+'Analizador.exe' (Win32): 'C:\Windows\System32\dlnashext.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\PlayToDevice.dll' cargado. 
+onecore\com\combase\dcomrem\security.cxx(3071)\combase.dll!00007FFC2A758BCC: (caller: 00007FFB85B7823E) ReturnHr(5) tid(1c08) 80010117 No se puede tener acceso al contexto de llamada después de que se ha completado la llamada.
+'Analizador.exe' (Win32): 'C:\Windows\System32\DevDispItemProvider.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\actxprxy.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Users\licen\AppData\Local\Microsoft\OneDrive\22.055.0313.0001\FileSyncShell64.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\Microsoft Office\root\Office16\GROOVEEX.DLL' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\Microsoft Office\root\Office16\msvcp140.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\Microsoft Office\root\Office16\vcruntime140.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\Microsoft Office\root\Office16\vcruntime140_1.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\msi.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\mssprxy.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\Microsoft Office\root\Office16\3082\GrooveIntlResource.dll' cargado. El módulo se compiló sin símbolos.
+'Analizador.exe' (Win32): 'C:\Program Files\Microsoft Office\root\Office16\3082\GrooveIntlResource.dll' descargado
+'Analizador.exe' (Win32): 'C:\Program Files\Microsoft Office\root\Office16\3082\GrooveIntlResource.dll' cargado. El módulo se compiló sin símbolos.
+'Analizador.exe' (Win32): 'C:\Windows\System32\EhStorShell.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\MMDevAPI.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\devobj.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\wpdshext.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\PortableDeviceApi.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\EhStorAPI.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\networkexplorer.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Windows\System32\xmllite.dll' descargado
+El subproceso 0xd5c terminó con código 0 (0x0).
+'Analizador.exe' (Win32): 'C:\Windows\System32\xmllite.dll' cargado. 
+El subproceso 0x3ba4 terminó con código 0 (0x0).
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbePwd.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbeQa.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbePwd.dll' descargado
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbeQa.dll' descargado
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbePwd.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbeQa.dll' cargado. 
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbePwd.dll' descargado
+'Analizador.exe' (Win32): 'C:\Program Files\McAfee\MAT\McPvKbeQa.dll' descargado
+onecore\com\combase\dcomrem\security.cxx(3071)\combase.dll!00007FFC2A758BCC: (caller: 00007FFB85B7823E) ReturnHr(6) tid(1c08) 80010117 No se puede tener acceso al contexto de llamada después de que se ha completado la llamada.
+El subproceso 0xe18 terminó con código 0 (0x0).
+'Analizador.exe' (Win32): 'C:\Windows\System32\provsvc.dll' cargado. 
+onecoreuap\shell\ext\thumbnailcache\lib\thumbcacheobj.cpp(3953)\thumbcache.dll!00007FFBF7D40869: (caller: 00007FFBF7D2B851) ReturnHr(1) tid(8b0) 80041221 *** thumbcache: Cache corrupted. Resetting all cache files.
+El subproceso 0x4880 terminó con código 0 (0x0).
+El subproceso 0x1c08 terminó con código 0 (0x0).
+El subproceso 0x21b0 terminó con código 0 (0x0).
+El subproceso 0x4d94 terminó con código 0 (0x0).
+'Analizador.exe' (Win32): 'C:\Windows\System32\xmllite.dll' descargado
+El subproceso 0x4e00 terminó con código 0 (0x0).
+El subproceso 0x4cd4 terminó con código 0 (0x0).
+El subproceso 0x509c terminó con código 0 (0x0).
+El subproceso 0x1530 terminó con código 0 (0x0).
+El subproceso 0x3584 terminó con código 0 (0x0).
+'Analizador.exe' (Win32): 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll' cargado. El módulo se compiló sin símbolos.
+'Analizador.exe' (Win32): 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll' cargado. El módulo se compiló sin símbolos.
+'Analizador.exe' (Win32): 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll' descargado
+'Analizador.exe' (CLR v4.0.30319: Analizador.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll' cargado. El módulo se compiló sin símbolos.
+El subproceso 0x24c4 terminó con código 0 (0x0).
+El subproceso 0x4a04 terminó con código 0 (0x0).
+El subproceso 0x1fc8 terminó con código 0 (0x0).
+El subproceso 0xbb0 terminó con código 0 (0x0).
+El subproceso 0x4748 terminó con código 0 (0x0).
+El subproceso 0x3f94 terminó con código 0 (0x0).
+El subproceso 0x213c terminó con código 0 (0x0).
+El subproceso 0x10ac terminó con código 0 (0x0).
+El subproceso 0x535c terminó con código 0 (0x0).
+El subproceso 0x36d0 terminó con código 0 (0x0).
+El subproceso 0x528c terminó con código 0 (0x0).
+El subproceso 0x51d4 terminó con código 0 (0x0).
+El subproceso 0x4ca4 terminó con código 0 (0x0).
+El subproceso 0x8b0 terminó con código 0 (0x0).
+El subproceso 0x31c4 terminó con código 0 (0x0).
+El subproceso 0x2338 terminó con código 0 (0x0).
+El subproceso 0x3e30 terminó con código 0 (0x0).
+El subproceso 0x4a00 terminó con código 0 (0x0).
+El programa '[1756] Analizador.exe' terminó con código 0 (0x0).

@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\licen\Desktop\AnalizadorFMLC\visualizador.h(220,11): warning C4551: la llamada a la función no tiene lista de argumentos
+C:\Users\licen\Desktop\AnalizadorFMLC\visualizador.h(204,1): warning C4102: 'cli': etiqueta sin referencia
+C:\Users\licen\Desktop\AnalizadorFMLC\visualizador.h(212,24): warning C4101: 'extras': variable local sin referencia
+  Main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Analizador.vcxproj -> C:\Users\licen\Desktop\AnalizadorFMLC\x64\Debug\Analizador.exe
